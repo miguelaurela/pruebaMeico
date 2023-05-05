@@ -1,0 +1,11 @@
+[
+    {
+        "nombre":"Miguel",
+        "edad":"26",
+        "telefonos":{
+            "tipoTelefono":"fijo",
+            "numeroTelefono":"64684654"
+        },
+        "email":"miguelaurela2804@gmail.com"
+    }
+]
